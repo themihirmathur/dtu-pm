@@ -1,5 +1,9 @@
 # DTU-PM (DTU Project Manager) | Complete Project Management Dashboard
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 `DTU-PM` is a comprehensive project management dashboard designed to simplify project management tasks such as planning, tracking, and reporting. Built using modern web technologies and cloud services, it provides a robust platform for managing project data, resources, and collaboration. This application leverages Next.js for the frontend, Node.js with Express for the backend, and various AWS services to ensure scalability, security, and high availability.
 
 ![Screenshot 2024-09-13 at 5 48 08 PM](https://github.com/user-attachments/assets/40a2d0bc-c34a-4738-9887-a276626bdc44)
@@ -155,10 +159,6 @@ SELECT setval(pg_get_serial_sequence('"[DATA_MODEL_NAME_HERE]"', 'id'), coalesce
 
 We welcome contributions from the community. To contribute, please fork the repository and submit a pull request. Ensure that your code follows the project’s coding standards and includes proper documentation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or feedback, please reach out to [Mihir Mathur](mailto:themihirmathur@gmail.com).
@@ -166,3 +166,7 @@ For questions or feedback, please reach out to [Mihir Mathur](mailto:themihirmat
 ---
 
 By providing a detailed overview, this README helps developers and users understand the purpose, setup, and usage of the DTU Project Manager, making it easier to contribute to or deploy the application.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
