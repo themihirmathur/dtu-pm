@@ -1,6 +1,8 @@
 # DTU-PM (DTU Project Manager) | Complete Project Management Dashboard
 
-DTU-PM is a comprehensive project management dashboard designed to simplify project management tasks such as planning, tracking, and reporting. Built using modern web technologies and cloud services, it provides a robust platform for managing project data, resources, and collaboration. This application leverages Next.js for the frontend, Node.js with Express for the backend, and various AWS services to ensure scalability, security, and high availability.
+`DTU-PM` is a comprehensive project management dashboard designed to simplify project management tasks such as planning, tracking, and reporting. Built using modern web technologies and cloud services, it provides a robust platform for managing project data, resources, and collaboration. This application leverages Next.js for the frontend, Node.js with Express for the backend, and various AWS services to ensure scalability, security, and high availability.
+
+![Screenshot 2024-09-13 at 5 48 08 PM](https://github.com/user-attachments/assets/40a2d0bc-c34a-4738-9887-a276626bdc44)
 
 ## Technology Stack
 
@@ -28,6 +30,8 @@ DTU-PM is a comprehensive project management dashboard designed to simplify proj
 - **AWS Lambda**: Serverless computing service for handling backend logic.
 - **AWS Cognito**: User authentication and authorization.
 
+![Screenshot 2024-09-13 at 5 48 38 PM](https://github.com/user-attachments/assets/ab5bed48-62f2-4a9d-83a9-3b2516fe52f1)
+
 ## Features
 
 - **User Authentication and Authorization**: Secure user login, registration, and access management using AWS Cognito.
@@ -53,8 +57,8 @@ Before running the application, ensure that you have the following tools install
 
 1. **Clone the Repository**
     ```bash
-    git clone [git url]
-    cd project-management
+    git clone https://github.com/themihirmathur/dtu-pm
+    cd dtu-pm
     ```
 
 2. **Install Dependencies**
@@ -118,7 +122,7 @@ project-management/
 ## Additional Resources
 
 - **Code Repositories and Configuration Files:**
-  - Complete project code on [GitHub](https://github.com/yourusername/project-management)
+  - Complete project code on [GitHub](https://github.com/themihirmathur/dtu-pm)
   - Tailwind CSS configuration
   - Redux Toolkit setup
   - Database seed files
@@ -137,6 +141,8 @@ project-management/
 3. **AWS S3 Configuration**: Set up an S3 bucket for storing static assets and enable CORS to allow access from the frontend.
 4. **AWS Cognito Configuration**: Create a user pool and identity pool for managing authentication and authorization.
 5. **AWS Lambda Functions**: Deploy backend functions for serverless tasks such as notifications and file processing.
+
+![Screenshot 2024-09-13 at 5 48 26 PM](https://github.com/user-attachments/assets/299b220a-4317-4d55-acc6-5a890f3262da)
 
 ## Database Management Commands
 
